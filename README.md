@@ -1,4 +1,4 @@
-# arjitaproject
+# Flutter + Firebase = Best Combo
 
 A new Flutter project.
 
